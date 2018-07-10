@@ -26,7 +26,7 @@ Apple ARKit integration and sample scene
     |-- UnityARKitPlugin  
     |-- Watson  
     
-5. Add a Microphone Usage Description (e.g. "Lexicon") under PlayerSettings > Other Settings > Configuration
+5. Add a Microphone Usage Description (e.g. "Lexicon") under Player Settings > Other Settings > Configuration
 
 6. Deploy to an iOS device
 
